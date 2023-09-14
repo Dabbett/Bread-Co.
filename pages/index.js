@@ -13,8 +13,13 @@ export default function Home() {
       <main>
         <Header title="Old Soul Sourdough" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Fresh Sourdough Made The Old Way </code>
         </p>
+        <section>
+          <h2> Our Passion: </h2>
+          <img src="">
+        </section>
+    
       </main>
 
       <Footer />
